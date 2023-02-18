@@ -284,7 +284,7 @@ Copy and Paste the Result Below:
 
 ### 1. Pick one city and category of your choice and group the businesses in that city or category by their overall star rating. Compare the businesses with 2-3 stars to the businesses with 4-5 stars and answer the following questions. Include your code.  
 
-I have choosen Las Vegas as city and Restaurants as a category.  
+I have choosen city = Las Vegas and category = Restaurants.  
 
 #### i. Do the two groups you chose to analyze have a different distribution of hours?  
 
@@ -363,7 +363,7 @@ Which city has the best services in the category of hotels and travels?
 
 I have calculated the total number of businesses, total number of operating businesses, average star rating and total number of review counts for category of
 hotels and travel for all cities available in the dataset.  
-From the following table, we can see that Oakwood Village has 1 hotel with poor rating which was closed later. The best performing hotel is in Scottsdale with 
+From the following table, we can see that Oakwood Village had 1 hotel with a poor rating and it was closed later. The best performing hotel is in Scottsdale with 
 a rating of 4.5 which is followed by Las Vegas.  
 #### iii. Output of your finished dataset:
 
